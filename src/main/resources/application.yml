@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: demo
+  ssl:
+    enabled: true
+    build-self-signed: true
